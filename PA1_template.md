@@ -22,7 +22,7 @@ The dataset is stored in a comma-separated-value (CSV) file and there are a tota
 
 ## Commit containing the submission
 ## 1. Code for reading in the dataset and/or processing the data.
-```{r}
+```{r echo = TRUE}
 library(data.table)
 library(ggplot2)
 
