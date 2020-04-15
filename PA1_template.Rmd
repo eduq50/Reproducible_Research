@@ -1,3 +1,4 @@
+<!-- rmarkdown v1 -->
 ---
 title: "Reproducible Research - Project 1"
 output: 
