@@ -1,2 +1,2 @@
 # Reproducible_Research
-All procedure is descrived in PA1_template.md
+The whole procedure is described in PA1_template.md
